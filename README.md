@@ -26,7 +26,7 @@ Puedes encontrar los slides en vivo [**AQUÍ**](https://docs.google.com/presenta
 
 Puedes abrir el cuaderno de trabajo directamente a través del siguietne botón: 
 
-<a href="https://colab.research.google.com/github/RodolfoFerro/dsc-tf/blob/main/notebooks/Clasificación%20de%20texto.ipynb" target="_blank\"><img src="https://colab.research.google.com/assets/colab-badge.svg" height="20px" alt="Open In Colab"></a>
+<a href="https://colab.research.google.com/github/RodolfoFerro/dsc-tf/blob/main/notebooks/Clasificador_de_texto.ipynb" target="_blank\"><img src="https://colab.research.google.com/assets/colab-badge.svg" height="20px" alt="Open In Colab"></a>
 
 > Es importante mencionar que el contenido hace uso de un ambiente en la nube para el desarrollo del material; sin embargo, podrás ejecutar el código de manera local si cuentas con los requerimeintos necesarios.
 
